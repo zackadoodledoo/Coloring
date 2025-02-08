@@ -41,3 +41,6 @@ I created a simple **Paint App** using C# that allows users to:
 
 ---
 
+### Video link
+
+- **YouTube**: https://youtu.be/sAcc-J9azR0
